@@ -1,0 +1,4 @@
+#Mon Jan 06 13:46:41 PST 2020
+base.0=C\:\\Users\\Fareed\\Desktop\\Smart Doctor\\smart_Doctor\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

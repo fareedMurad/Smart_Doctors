@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\ed811e92df46eeb641541624e461b9bd\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\d3757d38e7f041f5dd55e81afca57ad8\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\3182579b53eefd80e8694779897d1a0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\8954c7ba518e6af37406b818ef346035\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\d58bd09aa1678d560f1e781e93bd7d52\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\721e11cd1b2e689139b13ec8418ce2d2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\4ebf9ab58a44aec2b6668d66a20eb0ce\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\69c5f4769accd03024556b0ffb9de94c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\8b15df154ff5298e5d742aab565e1b70\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\4b4b53d40cfb0ac1063ed614fd490817\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\23cf3e531ab65f86fd68d5db4116f15b\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\50ae627f2aba3de593276bdfe52fe5b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\17e802ea9f623fd3879a93012ea5c7c3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\cfda78a74323acc824fdd9d80d519118\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\9010abb9758810ba7836637becf5ac64\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\5acfd260c77cc6fa751b910651e20084\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\6e1a83fb1b4d40b40d28cc3e3a0cdc69\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\a0d94aea4012364a6ac0b04ecbd45910\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\7b817a1fe89b0ffbf823cf3e36cffd02\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\fbbc38bc50771ef7f3ffc182066e4f42\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\9b82d74761a289b88b99eaddd8bd694a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\81842fe7f84ecc04a660e352139bf8fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\664e0bb3cd9ee498cfeb36aec6f825f7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\31c8592eb05f5e396a391ae1e6bb5e28\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\daa13b3532a4f1e018c32b176e0ebca7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\b60cdd9ab3dfe862f6c5e50f9f117bc9\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\68598ad51a6f0606368797abe9bfdb85\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\7af0ce12005e90998d3c2fb071368eda\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\3795c9c1bc59182bc8b87e66fee9ea59\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\9a4174ea669949df200c8f39c0597242\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\e0cf1c5d0a9d92836787b9815ea96251\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\64036e70992edc9e743da0876cc14a01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\e5fb3ee4ce02b14072b6a7345fcded2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\cbac368408d9fe7e9f0eef584f4eb567\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\edcfefa930d12ca2eccac2396ac3ce78\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\231746e2eaa848599fbc116560a24cc5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\a01ebf0dee1a68ece1299d60bdec5056\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:2:3-29
+		INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:2:3-29
+		INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\ed811e92df46eeb641541624e461b9bd\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\ed811e92df46eeb641541624e461b9bd\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\23cf3e531ab65f86fd68d5db4116f15b\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\23cf3e531ab65f86fd68d5db4116f15b\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\daa13b3532a4f1e018c32b176e0ebca7\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\daa13b3532a4f1e018c32b176e0ebca7\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\b60cdd9ab3dfe862f6c5e50f9f117bc9\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\b60cdd9ab3dfe862f6c5e50f9f117bc9\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\daa13b3532a4f1e018c32b176e0ebca7\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.smart_doctor.MainActivity
+ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\ed811e92df46eeb641541624e461b9bd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\ed811e92df46eeb641541624e461b9bd\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\d3757d38e7f041f5dd55e81afca57ad8\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\d3757d38e7f041f5dd55e81afca57ad8\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\3182579b53eefd80e8694779897d1a0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\3182579b53eefd80e8694779897d1a0c\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\8954c7ba518e6af37406b818ef346035\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\8954c7ba518e6af37406b818ef346035\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\d58bd09aa1678d560f1e781e93bd7d52\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\d58bd09aa1678d560f1e781e93bd7d52\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\721e11cd1b2e689139b13ec8418ce2d2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\721e11cd1b2e689139b13ec8418ce2d2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\4ebf9ab58a44aec2b6668d66a20eb0ce\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\4ebf9ab58a44aec2b6668d66a20eb0ce\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\69c5f4769accd03024556b0ffb9de94c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\69c5f4769accd03024556b0ffb9de94c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\8b15df154ff5298e5d742aab565e1b70\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\8b15df154ff5298e5d742aab565e1b70\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\4b4b53d40cfb0ac1063ed614fd490817\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\4b4b53d40cfb0ac1063ed614fd490817\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\23cf3e531ab65f86fd68d5db4116f15b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\23cf3e531ab65f86fd68d5db4116f15b\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\50ae627f2aba3de593276bdfe52fe5b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\50ae627f2aba3de593276bdfe52fe5b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\17e802ea9f623fd3879a93012ea5c7c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\17e802ea9f623fd3879a93012ea5c7c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\cfda78a74323acc824fdd9d80d519118\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\cfda78a74323acc824fdd9d80d519118\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\9010abb9758810ba7836637becf5ac64\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\9010abb9758810ba7836637becf5ac64\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\5acfd260c77cc6fa751b910651e20084\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\5acfd260c77cc6fa751b910651e20084\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\6e1a83fb1b4d40b40d28cc3e3a0cdc69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\6e1a83fb1b4d40b40d28cc3e3a0cdc69\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\a0d94aea4012364a6ac0b04ecbd45910\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\a0d94aea4012364a6ac0b04ecbd45910\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\7b817a1fe89b0ffbf823cf3e36cffd02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\7b817a1fe89b0ffbf823cf3e36cffd02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\fbbc38bc50771ef7f3ffc182066e4f42\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\fbbc38bc50771ef7f3ffc182066e4f42\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\9b82d74761a289b88b99eaddd8bd694a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\9b82d74761a289b88b99eaddd8bd694a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\81842fe7f84ecc04a660e352139bf8fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\81842fe7f84ecc04a660e352139bf8fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\664e0bb3cd9ee498cfeb36aec6f825f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\664e0bb3cd9ee498cfeb36aec6f825f7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\31c8592eb05f5e396a391ae1e6bb5e28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\31c8592eb05f5e396a391ae1e6bb5e28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\daa13b3532a4f1e018c32b176e0ebca7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\daa13b3532a4f1e018c32b176e0ebca7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\b60cdd9ab3dfe862f6c5e50f9f117bc9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\b60cdd9ab3dfe862f6c5e50f9f117bc9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\68598ad51a6f0606368797abe9bfdb85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\68598ad51a6f0606368797abe9bfdb85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\7af0ce12005e90998d3c2fb071368eda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\7af0ce12005e90998d3c2fb071368eda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\3795c9c1bc59182bc8b87e66fee9ea59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\3795c9c1bc59182bc8b87e66fee9ea59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\9a4174ea669949df200c8f39c0597242\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\9a4174ea669949df200c8f39c0597242\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\e0cf1c5d0a9d92836787b9815ea96251\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\e0cf1c5d0a9d92836787b9815ea96251\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\64036e70992edc9e743da0876cc14a01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\64036e70992edc9e743da0876cc14a01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\e5fb3ee4ce02b14072b6a7345fcded2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\e5fb3ee4ce02b14072b6a7345fcded2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\cbac368408d9fe7e9f0eef584f4eb567\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\cbac368408d9fe7e9f0eef584f4eb567\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\edcfefa930d12ca2eccac2396ac3ce78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\edcfefa930d12ca2eccac2396ac3ce78\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\231746e2eaa848599fbc116560a24cc5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\231746e2eaa848599fbc116560a24cc5\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\a01ebf0dee1a68ece1299d60bdec5056\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Fareed\.gradle\caches\transforms-2\files-2.1\a01ebf0dee1a68ece1299d60bdec5056\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\Fareed\Desktop\Smart Doctor\smart_Doctor\android\app\src\debug\AndroidManifest.xml:5:22-75
